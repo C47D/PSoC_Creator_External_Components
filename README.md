@@ -10,7 +10,7 @@ To add the external component to your project follow this steps:
 2. Right click on your current project and choose the option *'Import Component'*.  
 ![alt tag](http://i64.tinypic.com/jqrx3c.jpg)
 
-3. A dialog box will appear, choose the option *'import from archive'* and search the path where you have the file located.
+3. A dialog box will appear, choose the option *'import from archive'* and search the path where you have the file (component.cycomp) located on your pc.
 (You can choose a target project, this is usefull if you have more than one project on your wokspace).  
 ![alt tag](http://i65.tinypic.com/ixdqtz.jpg)
 
