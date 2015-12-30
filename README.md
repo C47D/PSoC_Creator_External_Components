@@ -20,4 +20,4 @@ In this example i define the external component to be located on *Community tab*
 
 5. Use it, modify it if you like!!!
 
-TODO: Find if it's possible to add external components as default dependency.
+**TODO**: Find if it's possible to add external components as default dependency.
